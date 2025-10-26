@@ -1,4 +1,3 @@
-# catalog
 # Product Catalog Website (nm.html)
 
 A responsive multi-section product catalog website built using **HTML**, **CSS**, and **JavaScript**.  
